@@ -31,6 +31,7 @@ namespace mlts
 
         public Form1()
         {
+            //测试
             InitializeComponent();
             this.innerintptr = new ArrayList();
             this.innerintptr.Add(this.dragPictureBox.Handle);
